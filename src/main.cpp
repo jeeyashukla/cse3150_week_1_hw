@@ -7,8 +7,8 @@ int main() {
     int b = 4;
 
     std::cout << "a+b =" << MathUtils::add(a,b) << std::endl;
-    std::cout <<short "a*b =" << MathUtils::multiply(a,b) << std::endl
-    std::cout << "square(a) =" << AdvancedMath::square(a) << std::endl
+    std::cout <<short "a*b =" << MathUtils::multiply(a,b) << std::endl;
+    std::cout << "square(a) =" << AdvancedMath::square(a) << std::endl;
 
     return 0;
 
